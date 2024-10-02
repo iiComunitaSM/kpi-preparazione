@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.290858f7.css",
-    "main.js": "/static/js/main.9d1ee2d8.js",
-    "static/js/453.2d1e7b9f.chunk.js": "/static/js/453.2d1e7b9f.chunk.js",
-    "index.html": "/index.html",
-    "main.290858f7.css.map": "/static/css/main.290858f7.css.map",
-    "main.9d1ee2d8.js.map": "/static/js/main.9d1ee2d8.js.map",
-    "453.2d1e7b9f.chunk.js.map": "/static/js/453.2d1e7b9f.chunk.js.map"
+    "main.css": "//iicomunitasm.github.io/kpi-preparazione/static/css/main.290858f7.css",
+    "main.js": "//iicomunitasm.github.io/kpi-preparazione/static/js/main.53d9a13b.js",
+    "static/js/453.2d1e7b9f.chunk.js": "//iicomunitasm.github.io/kpi-preparazione/static/js/453.2d1e7b9f.chunk.js",
+    "index.html": "//iicomunitasm.github.io/kpi-preparazione/index.html",
+    "main.290858f7.css.map": "//iicomunitasm.github.io/kpi-preparazione/static/css/main.290858f7.css.map",
+    "main.53d9a13b.js.map": "//iicomunitasm.github.io/kpi-preparazione/static/js/main.53d9a13b.js.map",
+    "453.2d1e7b9f.chunk.js.map": "//iicomunitasm.github.io/kpi-preparazione/static/js/453.2d1e7b9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.290858f7.css",
-    "static/js/main.9d1ee2d8.js"
+    "static/js/main.53d9a13b.js"
   ]
 }
