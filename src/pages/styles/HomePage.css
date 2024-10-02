@@ -1,0 +1,54 @@
+.HomePage {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  margin: 10px;
+  margin-top: 40px;
+  font-size: 1.4em;
+  font-weight: bold;
+  width: 90%;
+  max-width: 1200px;
+}
+
+.container {
+  width: 100%;
+  text-align: left;
+  font-size: 1.2em;
+}
+
+.item {
+  display: flex;
+  align-items: left;
+  align-items: left;
+  font-weight: 600;
+  border-bottom: solid 1px rgb(227, 227, 227);
+  padding: 15px 0;
+}
+
+.item:last-child {
+ border: none
+}
+
+.subtitle {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  background: linear-gradient(45deg, blue, 15%, purple);
+  background-clip: text;
+  color: transparent;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.suggerimenti {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: left;
+  justify-content: space-between;
+  gap: 20px;
+  width: 90%;
+  max-width: 1200px;
+}

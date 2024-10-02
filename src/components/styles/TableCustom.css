@@ -1,0 +1,20 @@
+.TableCustom {
+  width: 90%;
+  max-width: 1200px;
+  position: relative;
+}
+
+td:first-child {
+  background-color: white;
+  position: sticky;
+  left: 0;
+  border-right: solid 1px rgb(229, 229, 229);
+}
+
+th:first-child {
+  background-color: white;
+  position: sticky;
+  left: 0;
+  z-index: 100;
+  border-right: solid 1px rgb(229, 229, 229);
+}
